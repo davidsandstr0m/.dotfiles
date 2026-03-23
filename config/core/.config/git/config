@@ -1,7 +1,7 @@
 [init]
     defaultBranch = main
 [core]
-    editor = nvim
+    editor = nano
 [user]
     name = David Sandström
     email = fruktsallad04@gmail.com
